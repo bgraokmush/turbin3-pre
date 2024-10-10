@@ -84,7 +84,7 @@ cargo test -- --nocapture test_program
 
 ## Example Transactions 🔍
 
-- **Program Intregration**: [View on Solana Explorer]([https://explorer.solana.com/tx/sGsTvP8WCGsHBF59PrjR7bM4BifmzhBCJ9BRUzs45pfWvgJDsM3FTrFNF1uwCcyTURBJFnKB4k3SyW4gZVShRSk?cluster=devnet']))
+- **Program Intregration**: https://explorer.solana.com/tx/sGsTvP8WCGsHBF59PrjR7bM4BifmzhBCJ9BRUzs45pfWvgJDsM3FTrFNF1uwCcyTURBJFnKB4k3SyW4gZVShRSk?cluster=devnet'
 
 ## Running Tests 🧪
 
