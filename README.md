@@ -84,8 +84,7 @@ cargo test -- --nocapture test_program
 
 ## Example Transactions 🔍
 
-- **Airdrop Transaction**: [View on Solana Explorer](https://explorer.solana.com/tx/sGsTvP8WCGsHBF59PrjR7bM4BifmzhBCJ9BRUzs45pfWvgJDsM3FTrFNF1uwCcyTURBJFnKB4k3SyW4gZVShRSk?cluster=devnet)
-- **Money Transfer Transaction**: [View on Solana Explorer](https://explorer.solana.com/tx/3t4wLvaqixA1hH27ZgF192AjL9hAUY6cmaPMyqyB74DL3SA4mg1SVcH1jGhHe8pEbNYtXhDn36wjPyp8oDGGR7mc?cluster=devnet)
+- **Program Intregration**: [View on Solana Explorer]([https://explorer.solana.com/tx/sGsTvP8WCGsHBF59PrjR7bM4BifmzhBCJ9BRUzs45pfWvgJDsM3FTrFNF1uwCcyTURBJFnKB4k3SyW4gZVShRSk?cluster=devnet']))
 
 ## Running Tests 🧪
 
